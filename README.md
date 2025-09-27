@@ -1,4 +1,4 @@
-# 🤖 Cliente Ollama Simples (phi3:mini)
+# Cliente Ollama Simples (phi3:mini)
 
 Este projeto é um cliente de linha de comando (CLI) simples, escrito em **Python**, que se conecta a uma instância pública da API do **Ollama** para interagir com o modelo de linguagem **phi3:mini**.
 
@@ -28,13 +28,13 @@ Primeiro, clone este repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/Gabrieelgc2/cliente-Ollama-em-Python-via-API-HTTP-.git
-cd ollama-cliente-python```
+cd ollama-cliente-python
 
 ### 2. Instalar as Dependências
 Instale a única dependência necessária (requests) listada no requirements.txt:
-```bash
+```
 pip install -r requirements.txt```
 
 ### 3. Executar o Script
-```bash
 python main.py```
+
