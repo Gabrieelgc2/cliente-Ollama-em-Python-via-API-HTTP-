@@ -27,6 +27,7 @@ Siga os passos abaixo para configurar e iniciar a aplicação.
 Primeiro, clone este repositório para o seu ambiente local:
 
 > git clone https://github.com/Gabrieelgc2/cliente-Ollama-em-Python-via-API-HTTP-.git
+
 > cd ollama-cliente-python
 
 
@@ -36,3 +37,4 @@ Instale a única dependência necessária (requests) listada no requirements.txt
 
 ### 3. Executar o Script
 > python main.py
+
